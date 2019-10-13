@@ -1,4 +1,4 @@
-package slice_test
+package array_test
 
 import "testing"
 
